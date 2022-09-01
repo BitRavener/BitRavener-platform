@@ -9,3 +9,6 @@ On one hand, BitRavener makes it possible for users to earn cryptocurrency rewar
 On the other hand,partners can use BitRavener to distribute tokens to users through proof-of-use and acquire knowledgeable and engaged new users. 
 
 It also offers crypto tutorials in topics like NFTs and DeFi with Proof Of Attendance Protocol (POAP) so users can demonstrate their knowledge of specific topics.
+
+
+## Conclusion
