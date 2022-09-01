@@ -12,3 +12,5 @@ It also offers crypto tutorials in topics like NFTs and DeFi with Proof Of Atten
 
 
 ## Conclusion
+
+Cryptocurrency rewards are a common way to inspire users and build fanbases.BitRavener has seized every opportunity to enlarge new users and benefit relative dapps and protocols, which enormously attracts more people to enter into Web3 more easily.As time goes by, BitRavener will definitely bring the connection between project owners and new users to the next level.
