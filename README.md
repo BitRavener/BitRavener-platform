@@ -12,7 +12,6 @@ On the other hand,partners can use BitRavener to distribute tokens to users thro
 
 It also offers crypto tutorials in topics like NFTs and DeFi with Proof Of Attendance Protocol (POAP) so users can demonstrate their knowledge of specific topics.
 
-
 ## Conclusion
 
 Cryptocurrency rewards are a common way to inspire users and build fanbases.BitRavener has seized every opportunity to enlarge new users and benefit relative dapps and protocols, which enormously attracts more people to enter into Web3 more easily.As time goes by, BitRavener will definitely bring the connection between project owners and new users to the next level.
