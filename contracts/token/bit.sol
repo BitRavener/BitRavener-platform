@@ -13,7 +13,6 @@ contract bit is ERC20{
         require(msg.sender == admin);
         _;
     }
-    
     function changeOwner(address manager) external _isOwner {
         admin = manager;
         emit AdminChange(msg.sender,manager);
