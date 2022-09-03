@@ -55,9 +55,7 @@ contract BitRavener{
     ethInfo[] public borrowEthList;
     mapping(address=>ethInfo) userethInfo;
     function init(address _usdc,address _Dai,address _eth) public {
-        usdc=_usdc;
-        Dai=_Dai;
-        eth=_eth;
+       
     }
     
     function setApy(address token,uint oneyear,uint twoyear,uint threeyear)public{
