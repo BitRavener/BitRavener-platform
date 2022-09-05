@@ -7,6 +7,7 @@ contract BitRavener{
     address eth;
     uint id;
     uint id2;
+    
     struct usdcInfo{
         address usdc;
         uint APY;
